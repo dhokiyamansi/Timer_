@@ -20,5 +20,5 @@ A simple timer application built using **React.js**, with **Start**, **Stop**, a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/timer-app.git
+   git clone https://github.com/dhokiyamansi/Timer_.git
 
